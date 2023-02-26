@@ -10,5 +10,5 @@
 - change the account status to active, pending or deactive.
 - Admin can also delete member account.
 
-######If the member has not returned the book on time then the member
+###If the member has not returned the book on time then the member
 will be marked as defaulter.
